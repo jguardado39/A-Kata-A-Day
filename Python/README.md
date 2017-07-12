@@ -35,24 +35,25 @@
 33. Memorized Fibonacci
 34. Multiples of 3 and 5
 35. Multiply
-36. Number Encrypting
-37. Number to String
-38. Observed Pin
-39. Playing with Digits
-40. Polybius Square Cipher
-41. Relative Prime Numbers
-42. Remove First and Last Character
-43. Square Every Digit
-44. String Repeat
-45. String to Number
-46. Stringy Strings
-47. Sum without Higest and Lowest Number
-48. Sum of Positive
-49. Sum of a Sequence
-50. Summation
-51. Supersize Me
-52. The Book of Mormon
-53. To Square Root
-54. Tribonacci Sequence
-55. Unscrambled Eggs
-56. Vowel Count
+36. Next Prime
+37. Number Encrypting
+38. Number to String
+39. Observed Pin
+40. Playing with Digits
+41. Polybius Square Cipher
+42. Relative Prime Numbers
+43. Remove First and Last Character
+44. Square Every Digit
+45. String Repeat
+46. String to Number
+47. Stringy Strings
+48. Sum without Higest and Lowest Number
+49. Sum of Positive
+50. Sum of a Sequence
+51. Summation
+52. Supersize Me
+53. The Book of Mormon
+54. To Square Root
+55. Tribonacci Sequence
+56. Unscrambled Eggs
+57. Vowel Count
