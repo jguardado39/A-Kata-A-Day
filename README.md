@@ -9,8 +9,8 @@ I have taken up the challenge to solve 1 Kata everyday from CodeWars. I will be 
 
 |    Programming Language  |    Kata Count  | 
 |----------|:-------------:|
-| [JAVA](https://github.com/varunu28/A-Kata-A-Day/tree/master/JAVA) | 3 | 
-| [Python](https://github.com/varunu28/A-Kata-A-Day/tree/master/Python) | 110 | 
-| [JavaScript](https://github.com/varunu28/A-Kata-A-Day/tree/master/Javascript) | 70 | 
+| [JAVA]() | 0 | 
+| [Python](https://github.com/jguardado39/A-Kata-A-Day/tree/master/Python) | 110 | 
+| [JavaScript]() | 0 | 
 
 My CodeWars profile: http://www.codewars.com/users/jguardado39
