@@ -10,7 +10,7 @@ I have taken up the challenge to solve 1 Kata everyday from CodeWars. I will be 
 |    Programming Language  |    Kata Count  | 
 |----------|:-------------:|
 | [JAVA]() | 0 | 
-| [Python](https://github.com/jguardado39/A-Kata-A-Day/tree/master/Python) | 54 | 
+| [Python](https://github.com/jguardado39/A-Kata-A-Day/tree/master/Python) | 50 | 
 | [JavaScript]() | 0 | 
 
 My CodeWars profile: http://www.codewars.com/users/jguardado39
