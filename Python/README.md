@@ -18,39 +18,40 @@
 16. Do I Get A Bonus?
 17. Double Char
 18. Driving License
-19. Find The Odd Int
-20. Find The Parity Outlier
-21. Find the First Non-Consecutive Number
-22. Get Middle Character
-23. Greatest Common Divisor
-24. Highest and Lowest	
-25. Hoop Count
-26. How Many Reindeers
-27. IQ Test
-28. Jaden Casing Strings
-29. Jenny's Secret Message
-30. List Filtering
-31. Memorized Fibonacci
-32. Multiples of 3 and 5
-33. Multiply
-34. Number Encrypting
-35. Number to String
-36. Observed Pin
-37. Playing with Digits
-38. Polybius Square Cipher
-39. Relative Prime Numbers
-40. Remove First and Last Character
-41. Square Every Digit
-42. String Repeat
-43. String to Number
-44. Stringy Strings
-45. Sum without Higest and Lowest Number
-46. Sum of Positive
-47. Sum of a Sequence
-48. Summation
-49. Supersize Me
-50. The Book of Mormon
-51. To Square Root
-52. Tribonacci Sequence
-53. Unscrambled Eggs
-54. Vowel Count
+19. Find Divisor Number
+20. Find The Odd Int
+21. Find The Parity Outlier
+22. Find the First Non-Consecutive Number
+23. Get Middle Character
+24. Greatest Common Divisor
+25. Highest and Lowest	
+26. Hoop Count
+27. How Many Reindeers
+28. IQ Test
+29. Jaden Casing Strings
+30. Jenny's Secret Message
+31. List Filtering
+32. Memorized Fibonacci
+33. Multiples of 3 and 5
+34. Multiply
+35. Number Encrypting
+36. Number to String
+37. Observed Pin
+38. Playing with Digits
+39. Polybius Square Cipher
+40. Relative Prime Numbers
+41. Remove First and Last Character
+42. Square Every Digit
+43. String Repeat
+44. String to Number
+45. Stringy Strings
+46. Sum without Higest and Lowest Number
+47. Sum of Positive
+48. Sum of a Sequence
+49. Summation
+50. Supersize Me
+51. The Book of Mormon
+52. To Square Root
+53. Tribonacci Sequence
+54. Unscrambled Eggs
+55. Vowel Count
