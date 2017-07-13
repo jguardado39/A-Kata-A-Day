@@ -24,18 +24,15 @@ all [
 
 */
 
-public class Triangular {
-    public static int triangular(int n) {
-    	if (n < 0) {
-      	return 0;
-      }
-    return n * (n + 1) / 2;
-    }
+function triangular( n ) {
+  return n < 0 ? 0 : n * (n + 1) / 2;
 }
 
-// By JulianNicholls
-public class Triangular_alt {
-    public static int triangular(int n) {
-        return (n <= 0) ? 0 : n * (n + 1) / 2;
-    }
+// By fehtgoldaraz
+var max_n = Math.floor(Math.sqrt(Number.MAX_VALUE));
+
+function triangular_alt(n) {
+  if (n < 1 || n >= max_n) return 0;
+  
+  return (n * (n + 1)) / 2;
 }
