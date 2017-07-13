@@ -6,8 +6,9 @@
 4. Do I Get A Bonus?
 5. Find Divisors Number
 6. Find the First Non-Consercutive Number
-7. Multiply
-8. Next Prime
-9. Tower_of_Hanoi
-10. Triangular Treasure
-11. Unscrambled Eggs
+7. Friend or Foe?
+8. Multiply
+9. Next Prime
+10. Tower_of_Hanoi
+11. Triangular Treasure
+12. Unscrambled Eggs
