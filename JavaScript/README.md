@@ -1,9 +1,10 @@
 ### JavaScript Solutions
 
-1. Credit Card Mask
-2. Do I Get A Bonus?
-3. Find Divisors Number
-4. Find the First Non-Consercutive Number
-5. Multiply
-6. Next Prime
-7. Unscrambled Eggs
+1. Breaking Chocolate Problem
+2. Credit Card Mask
+3. Do I Get A Bonus?
+4. Find Divisors Number
+5. Find the First Non-Consercutive Number
+6. Multiply
+7. Next Prime
+8. Unscrambled Eggs
