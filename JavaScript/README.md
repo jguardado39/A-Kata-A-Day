@@ -9,8 +9,9 @@
 7. Friend or Foe?
 8. Get the Middle Character
 9. Highest and Lowest
-10. Multiply
-11. Next Prime
-12. Tower_of_Hanoi
-13. Triangular Treasure
-14. Unscrambled Eggs
+10. Multiples of 3 and 5
+11. Multiply
+12. Next Prime
+13. Tower_of_Hanoi
+14. Triangular Treasure
+15. Unscrambled Eggs
