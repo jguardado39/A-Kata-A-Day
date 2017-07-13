@@ -56,6 +56,7 @@
 54. Supersize Me
 55. The Book of Mormon
 56. To Square Root
-57. Tribonacci Sequence
-58. Unscrambled Eggs
-59. Vowel Count
+57. Triangular Treasure
+58. Tribonacci Sequence
+59. Unscrambled Eggs
+60. Vowel Count
