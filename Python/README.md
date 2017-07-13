@@ -1,64 +1,65 @@
 ### PYTHON Solutions
 
 1. Adding Binary Numbers
-2. Barksdale Code
-3. Between
-4. Bit Counting
-5. Breaking Chocolate Problem
-6. Building Tower
-7. Caesar Cipher
-8. Complementary DNA
-9. Count by X
-10. Count of Positive Sum of Negative
-11. Count the Monkey
-12. Credit Card Mask
-13. Counting Sheep
-14. Decoding a Message
-15. Diagonals Product
-16. Digital Root
-17. Direction Reduction
-18. Do I Get A Bonus?
-19. Double Char
-20. Driving License
-21. Find Divisor Number
-22. Find The Odd Int
-23. Find The Parity Outlier
-24. Friend of Foe?
-25. Find the First Non-Consecutive Number
-26. Get Middle Character
-27. Greatest Common Divisor
-28. Highest and Lowest	
-29. Hoop Count
-30. How Many Reindeers
-31. How Old Will I Be In 2099
-32. IQ Test
-33. Jaden Casing Strings
-34. Jenny's Secret Message
-35. List Filtering
-36. Memorized Fibonacci
-37. Multiples of 3 and 5
-38. Multiply
-39. Next Prime
-40. Number Encrypting
-41. Number to String
-42. Observed Pin
-43. Playing with Digits
-44. Polybius Square Cipher
-45. Relative Prime Numbers
-46. Remove First and Last Character
-47. Square Every Digit
-48. String Repeat
-49. String to Number
-50. Stringy Strings
-51. Sum without Higest and Lowest Number
-52. Sum of Positive
-53. Sum of a Sequence
-54. Summation
-55. Supersize Me
-56. The Book of Mormon
-57. To Square Root
-58. Tower of Hanoi
-59. Triangular Treasure
-60. Tribonacci Sequence
-61. Unscrambled Eggs
-62. Vowel Count
+2. Alternating Case
+3. Barksdale Code
+4. Between
+5. Bit Counting
+6. Breaking Chocolate Problem
+7. Building Tower
+8. Caesar Cipher
+9. Complementary DNA
+10. Count by X
+11. Count of Positive Sum of Negative
+12. Count the Monkey
+13. Credit Card Mask
+14. Counting Sheep
+15. Decoding a Message
+16. Diagonals Product
+17. Digital Root
+18. Direction Reduction
+19. Do I Get A Bonus?
+20. Double Char
+21. Driving License
+22. Find Divisor Number
+23. Find The Odd Int
+24. Find The Parity Outlier
+25. Friend of Foe?
+26. Find the First Non-Consecutive Number
+27. Get Middle Character
+28. Greatest Common Divisor
+29. Highest and Lowest	
+30. Hoop Count
+31. How Many Reindeers
+32. How Old Will I Be In 2099
+33. IQ Test
+34. Jaden Casing Strings
+35. Jenny's Secret Message
+36. List Filtering
+37. Memorized Fibonacci
+38. Multiples of 3 and 5
+39. Multiply
+40. Next Prime
+41. Number Encrypting
+42. Number to String
+43. Observed Pin
+44. Playing with Digits
+45. Polybius Square Cipher
+46. Relative Prime Numbers
+47. Remove First and Last Character
+48. Square Every Digit
+49. String Repeat
+50. String to Number
+51. Stringy Strings
+52. Sum without Higest and Lowest Number
+53. Sum of Positive
+54. Sum of a Sequence
+55. Summation
+56. Supersize Me
+57. The Book of Mormon
+58. To Square Root
+59. Tower of Hanoi
+60. Triangular Treasure
+61. Tribonacci Sequence
+62. Unscrambled Eggs
+63. Vowel Count

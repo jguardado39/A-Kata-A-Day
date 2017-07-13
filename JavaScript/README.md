@@ -7,8 +7,10 @@
 5. Find Divisors Number
 6. Find the First Non-Consercutive Number
 7. Friend or Foe?
-8. Multiply
-9. Next Prime
-10. Tower_of_Hanoi
-11. Triangular Treasure
-12. Unscrambled Eggs
+8. Get the Middle Character
+9. Highest and Lowest
+10. Multiply
+11. Next Prime
+12. Tower_of_Hanoi
+13. Triangular Treasure
+14. Unscrambled Eggs
