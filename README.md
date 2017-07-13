@@ -11,6 +11,6 @@ I have taken up the challenge to solve 1 Kata everyday from CodeWars. I will be 
 |----------|:-------------:|
 | [JAVA](https://github.com/jguardado39/A-Kata-A-Day/tree/master/Java) | 3 | 
 | [Python](https://github.com/jguardado39/A-Kata-A-Day/tree/master/Python) | 58 | 
-| [JavaScript](https://github.com/jguardado39/A-Kata-A-Day/tree/master/JavaScript) | 6 | 
+| [JavaScript](https://github.com/jguardado39/A-Kata-A-Day/tree/master/JavaScript) | 7 | 
 
 My CodeWars profile: http://www.codewars.com/users/jguardado39

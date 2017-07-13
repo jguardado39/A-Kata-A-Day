@@ -1,8 +1,9 @@
 ### JavaScript Solutions
 
-1. Do I Get A Bonus?
-2. Find Divisors Number
-3. Find the First Non-Consercutive Number
-4. Multiply
-5. Next Prime
-6. Unscrambled Eggs
+1. Credit Card Mask
+2. Do I Get A Bonus?
+3. Find Divisors Number
+4. Find the First Non-Consercutive Number
+5. Multiply
+6. Next Prime
+7. Unscrambled Eggs
