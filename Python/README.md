@@ -10,50 +10,51 @@
 8. Count by X
 9. Count of Positive Sum of Negative
 10. Count the Monkey
-11. Counting Sheep
-12. Decoding a Message
-13. Diagonals Product
-14. Digital Root
-15. Direction Reduction
-16. Do I Get A Bonus?
-17. Double Char
-18. Driving License
-19. Find Divisor Number
-20. Find The Odd Int
-21. Find The Parity Outlier
-22. Find the First Non-Consecutive Number
-23. Get Middle Character
-24. Greatest Common Divisor
-25. Highest and Lowest	
-26. Hoop Count
-27. How Many Reindeers
-28. How Old Will I Be In 2099
-29. IQ Test
-30. Jaden Casing Strings
-31. Jenny's Secret Message
-32. List Filtering
-33. Memorized Fibonacci
-34. Multiples of 3 and 5
-35. Multiply
-36. Next Prime
-37. Number Encrypting
-38. Number to String
-39. Observed Pin
-40. Playing with Digits
-41. Polybius Square Cipher
-42. Relative Prime Numbers
-43. Remove First and Last Character
-44. Square Every Digit
-45. String Repeat
-46. String to Number
-47. Stringy Strings
-48. Sum without Higest and Lowest Number
-49. Sum of Positive
-50. Sum of a Sequence
-51. Summation
-52. Supersize Me
-53. The Book of Mormon
-54. To Square Root
-55. Tribonacci Sequence
-56. Unscrambled Eggs
-57. Vowel Count
+11. Credit Card Mask
+12. Counting Sheep
+13. Decoding a Message
+14. Diagonals Product
+15. Digital Root
+16. Direction Reduction
+17. Do I Get A Bonus?
+18. Double Char
+19. Driving License
+20. Find Divisor Number
+21. Find The Odd Int
+22. Find The Parity Outlier
+23. Find the First Non-Consecutive Number
+24. Get Middle Character
+25. Greatest Common Divisor
+26. Highest and Lowest	
+27. Hoop Count
+28. How Many Reindeers
+29. How Old Will I Be In 2099
+30. IQ Test
+31. Jaden Casing Strings
+32. Jenny's Secret Message
+33. List Filtering
+34. Memorized Fibonacci
+35. Multiples of 3 and 5
+36. Multiply
+37. Next Prime
+38. Number Encrypting
+39. Number to String
+40. Observed Pin
+41. Playing with Digits
+42. Polybius Square Cipher
+43. Relative Prime Numbers
+44. Remove First and Last Character
+45. Square Every Digit
+46. String Repeat
+47. String to Number
+48. Stringy Strings
+49. Sum without Higest and Lowest Number
+50. Sum of Positive
+51. Sum of a Sequence
+52. Summation
+53. Supersize Me
+54. The Book of Mormon
+55. To Square Root
+56. Tribonacci Sequence
+57. Unscrambled Eggs
+58. Vowel Count
