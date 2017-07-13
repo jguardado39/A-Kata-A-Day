@@ -19,7 +19,7 @@ Don't forget the space after the closing parenthese!
 */
 
 function createPhoneNumber(numbers) {
-  var numbers2 = ("" + numbers).replace(/\D/g, '');
+  var numbers2 = ("" + numbers).replace(/\D/g, ''___);
   var m = numbers2.match(/^(\d{3})(\d{3})(\d{4})$/);
   return (!m) ? null : "(" + m[1] + ") " + m[2] + "-" + m[3];
 }

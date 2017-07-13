@@ -56,7 +56,8 @@
 54. Supersize Me
 55. The Book of Mormon
 56. To Square Root
-57. Triangular Treasure
-58. Tribonacci Sequence
-59. Unscrambled Eggs
-60. Vowel Count
+57. Tower of Hanoi
+58. Triangular Treasure
+59. Tribonacci Sequence
+60. Unscrambled Eggs
+61. Vowel Count

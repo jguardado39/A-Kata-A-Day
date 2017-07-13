@@ -8,4 +8,6 @@
 6. Find the First Non-Consercutive Number
 7. Multiply
 8. Next Prime
-9. Unscrambled Eggs
+9. Tower_of_Hanoi
+10. Triangular Treasure
+11. Unscrambled Eggs
