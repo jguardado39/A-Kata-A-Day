@@ -47,19 +47,20 @@
 45. Polybius Square Cipher
 46. Relative Prime Numbers
 47. Remove First and Last Character
-48. Square Every Digit
-49. String Repeat
-50. String to Number
-51. Stringy Strings
-52. Sum without Higest and Lowest Number
-53. Sum of Positive
-54. Sum of a Sequence
-55. Summation
-56. Supersize Me
-57. The Book of Mormon
-58. To Square Root
-59. Tower of Hanoi
-60. Triangular Treasure
-61. Tribonacci Sequence
-62. Unscrambled Eggs
-63. Vowel Count
+48. Sort the Odd
+49. Square Every Digit
+50. String Repeat
+51. String to Number
+52. Stringy Strings
+53. Sum without Higest and Lowest Number
+54. Sum of Positive
+55. Sum of a Sequence
+56. Summation
+57. Supersize Me
+58. The Book of Mormon
+59. To Square Root
+60. Tower of Hanoi
+61. Triangular Treasure
+62. Tribonacci Sequence
+63. Unscrambled Eggs
+64. Vowel Count
