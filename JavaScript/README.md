@@ -12,6 +12,7 @@
 10. Multiples of 3 and 5
 11. Multiply
 12. Next Prime
-13. Tower_of_Hanoi
-14. Triangular Treasure
-15. Unscrambled Eggs
+13. Sort the Odd
+14. Tower_of_Hanoi
+15. Triangular Treasure
+16. Unscrambled Eggs
