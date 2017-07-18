@@ -16,6 +16,7 @@
 14. Repalce All Dots
 15. Reversed Words
 16. Sort the Odd
-17. Tower_of_Hanoi
-18. Triangular Treasure
-19. Unscrambled Eggs
+17. String Average
+18. Tower of Hanoi
+19. Triangular Treasure
+20. Unscrambled Eggs

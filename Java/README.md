@@ -4,6 +4,7 @@
 2. Find Divisors Number 
 3. Find the First Non-Consercutive Number
 4. Get the Middle Character
+5. Hours to Seconds
 5. Multiples of 3 and 5 
 6. Multiply
 7. Replace All Dots
