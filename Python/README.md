@@ -50,18 +50,19 @@
 48. Reversed Words
 49. Sort the Odd
 50. Square Every Digit
-51. String Repeat
-52. String to Number
-53. Stringy Strings
-54. Sum without Higest and Lowest Number
-55. Sum of Positive
-56. Sum of a Sequence
-57. Summation
-58. Supersize Me
-59. The Book of Mormon
-60. To Square Root
-61. Tower of Hanoi
-62. Triangular Treasure
-63. Tribonacci Sequence
-64. Unscrambled Eggs
-65. Vowel Count
+51. String Average
+52. String Repeat
+53. String to Number
+54. Stringy Strings
+55. Sum without Higest and Lowest Number
+56. Sum of Positive
+57. Sum of a Sequence
+58. Summation
+59. Supersize Me
+60. The Book of Mormon
+61. To Square Root
+62. Tower of Hanoi
+63. Triangular Treasure
+64. Tribonacci Sequence
+65. Unscrambled Eggs
+66. Vowel Count
