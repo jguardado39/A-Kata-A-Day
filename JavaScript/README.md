@@ -13,8 +13,9 @@
 11. Multiples of 3 and 5
 12. Multiply
 13. Next Prime
-14. Reversed Words
-15. Sort the Odd
-16. Tower_of_Hanoi
-17. Triangular Treasure
-18. Unscrambled Eggs
+14. Repalce All Dots
+15. Reversed Words
+16. Sort the Odd
+17. Tower_of_Hanoi
+18. Triangular Treasure
+19. Unscrambled Eggs
