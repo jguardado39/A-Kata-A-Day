@@ -63,8 +63,9 @@
 61. The Book of Mormon
 62. To Square Root
 63. Tower of Hanoi
-64. Triangular Treasure
-65. Tribonacci Sequence
-66. Unscrambled Eggs
-67. Validater Credit Card Number
-68. Vowel Count
+64. Triangular Number
+65. Triangular Treasure
+66. Tribonacci Sequence
+67. Unscrambled Eggs
+68. Validater Credit Card Number
+69. Vowel Count
