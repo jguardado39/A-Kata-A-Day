@@ -19,7 +19,8 @@
 17. Sort the Odd
 18. String Average
 19. Tower of Hanoi
-20. Triangular Treasure
-21. Unscrambled Eggs
-22. Validate Credit Card Number
-23. You Got Change?
+20. Triangular Numbers
+21. Triangular Treasure
+22. Unscrambled Eggs
+23. Validate Credit Card Number
+24. You Got Change?
