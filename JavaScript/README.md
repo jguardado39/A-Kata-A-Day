@@ -12,16 +12,17 @@
 10. Friend or Foe?
 11. Get the Middle Character
 12. Highest and Lowest
-13. Multiples of 3 and 5
-14. Multiply
-15. Next Prime
-16. Repalce All Dots
-17. Reversed Words
-18. Sort the Odd
-19. String Average
-20. Tower of Hanoi
-21. Triangular Numbers
-22. Triangular Treasure
-23. Unscrambled Eggs
-24. Validate Credit Card Number
-25. You Got Change?
+13. Is This a Triangle?
+14. Multiples of 3 and 5
+15. Multiply
+16. Next Prime
+17. Repalce All Dots
+18. Reversed Words
+19. Sort the Odd
+20. String Average
+21. Tower of Hanoi
+22. Triangular Numbers
+23. Triangular Treasure
+24. Unscrambled Eggs
+25. Validate Credit Card Number
+26. You Got Change?
