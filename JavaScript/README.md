@@ -22,10 +22,11 @@
 20. Reversed Words
 21. Sort the Odd
 22. String Average
-23. Tower of Hanoi
-24. Triangular Numbers
-25. Triangular Treasure
-26. Tribonacci Sequence
-27. Unscrambled Eggs
-28. Validate Credit Card Number
-29. You Got Change?
+23. Sum of Numbers
+24. Tower of Hanoi
+25. Triangular Numbers
+26. Triangular Treasure
+27. Tribonacci Sequence
+28. Unscrambled Eggs
+29. Validate Credit Card Number
+30. You Got Change?
