@@ -25,6 +25,7 @@
 23. Tower of Hanoi
 24. Triangular Numbers
 25. Triangular Treasure
-26. Unscrambled Eggs
-27. Validate Credit Card Number
-28. You Got Change?
+26. Tribonacci Sequence
+27. Unscrambled Eggs
+28. Validate Credit Card Number
+29. You Got Change?
