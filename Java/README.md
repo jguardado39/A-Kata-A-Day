@@ -8,6 +8,7 @@
 6. Is This A Triangle?
 7. Multiples of 3 and 5 
 8. Multiply
-9. Replace All Dots
-10. Triangular Treasure
-11. Validate Credit Card Number
+9. Playing with Digits
+10. Replace All Dots
+11. Triangular Treasure
+12. Validate Credit Card Number
