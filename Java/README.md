@@ -11,4 +11,5 @@
 9. Playing with Digits
 10. Replace All Dots
 11. Triangular Treasure
-12. Validate Credit Card Number
+12. Tribonacci Sequence
+13. Validate Credit Card Number
