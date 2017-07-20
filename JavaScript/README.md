@@ -9,21 +9,22 @@
 7. Do I Get A Bonus?
 8. Find Divisors Number
 9. Find the First Non-Consercutive Number
-10. Friend or Foe?
-11. Get the Middle Character
-12. Highest and Lowest
-13. Is This a Triangle?
-14. Multiples of 3 and 5
-15. Multiply
-16. Next Prime
-17. Playing with Digits
-18. Repalce All Dots
-19. Reversed Words
-20. Sort the Odd
-21. String Average
-22. Tower of Hanoi
-23. Triangular Numbers
-24. Triangular Treasure
-25. Unscrambled Eggs
-26. Validate Credit Card Number
-27. You Got Change?
+10. Find the Parity Outlier
+11. Friend or Foe?
+12. Get the Middle Character
+13. Highest and Lowest
+14. Is This a Triangle?
+15. Multiples of 3 and 5
+16. Multiply
+17. Next Prime
+18. Playing with Digits
+19. Repalce All Dots
+20. Reversed Words
+21. Sort the Odd
+22. String Average
+23. Tower of Hanoi
+24. Triangular Numbers
+25. Triangular Treasure
+26. Unscrambled Eggs
+27. Validate Credit Card Number
+28. You Got Change?
