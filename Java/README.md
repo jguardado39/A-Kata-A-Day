@@ -10,6 +10,7 @@
 8. Multiply
 9. Playing with Digits
 10. Replace All Dots
-11. Triangular Treasure
-12. Tribonacci Sequence
-13. Validate Credit Card Number
+11. Sum of Digits/ Digital Root
+12. Triangular Treasure
+13. Tribonacci Sequence
+14. Validate Credit Card Number
