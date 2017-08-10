@@ -21,12 +21,13 @@
 19. Repalce All Dots
 20. Reversed Words
 21. Sort the Odd
-22. String Average
-23. Sum of Numbers
-24. Tower of Hanoi
-25. Triangular Numbers
-26. Triangular Treasure
-27. Tribonacci Sequence
-28. Unscrambled Eggs
-29. Validate Credit Card Number
-30. You Got Change?
+22. Square Every Digit
+23. String Average
+24. Sum of Numbers
+25. Tower of Hanoi
+26. Triangular Numbers
+27. Triangular Treasure
+28. Tribonacci Sequence
+29. Unscrambled Eggs
+30. Validate Credit Card Number
+31. You Got Change?
