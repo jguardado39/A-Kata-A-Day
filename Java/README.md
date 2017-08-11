@@ -17,3 +17,4 @@
 15. Triangular Treasure
 16. Tribonacci Sequence
 17. Validate Credit Card Number
+18. Vowel Count
