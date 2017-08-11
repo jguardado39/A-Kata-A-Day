@@ -30,4 +30,5 @@
 28. Tribonacci Sequence
 29. Unscrambled Eggs
 30. Validate Credit Card Number
-31. You Got Change?
+31. Vowel Count
+32. You Got Change?
