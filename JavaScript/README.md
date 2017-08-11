@@ -19,16 +19,17 @@
 17. Next Prime
 18. Playing with Digits
 19. Repalce All Dots
-20. Reversed Words
-21. Sort the Odd
-22. Square Every Digit
-23. String Average
-24. Sum of Numbers
-25. Tower of Hanoi
-26. Triangular Numbers
-27. Triangular Treasure
-28. Tribonacci Sequence
-29. Unscrambled Eggs
-30. Validate Credit Card Number
-31. Vowel Count
-32. You Got Change?
+20. Reverse a Number
+21. Reversed Words
+22. Sort the Odd
+23. Square Every Digit
+24. String Average
+25. Sum of Numbers
+26. Tower of Hanoi
+27. Triangular Numbers
+28. Triangular Treasure
+29. Tribonacci Sequence
+30. Unscrambled Eggs
+31. Validate Credit Card Number
+32. Vowel Count
+33. You Got Change?

@@ -48,24 +48,25 @@
 46. Polybius Square Cipher
 47. Relative Prime Numbers
 48. Remove First and Last Character
-49. Reversed Words
-50. Sort the Odd
-51. Square Every Digit
-52. String Average
-53. String Repeat
-54. String to Number
-55. Stringy Strings
-56. Sum without Higest and Lowest Number
-57. Sum of Positive
-58. Sum of a Sequence
-59. Summation
-60. Supersize Me
-61. The Book of Mormon
-62. To Square Root
-63. Tower of Hanoi
-64. Triangular Number
-65. Triangular Treasure
-66. Tribonacci Sequence
-67. Unscrambled Eggs
-68. Validater Credit Card Number
-69. Vowel Count
+49. Reverse A Number
+50. Reversed Words
+51. Sort the Odd
+52. Square Every Digit
+53. String Average
+54. String Repeat
+55. String to Number
+56. Stringy Strings
+57. Sum without Higest and Lowest Number
+58. Sum of Positive
+59. Sum of a Sequence
+60. Summation
+61. Supersize Me
+62. The Book of Mormon
+63. To Square Root
+64. Tower of Hanoi
+65. Triangular Number
+66. Triangular Treasure
+67. Tribonacci Sequence
+68. Unscrambled Eggs
+69. Validater Credit Card Number
+70. Vowel Count
