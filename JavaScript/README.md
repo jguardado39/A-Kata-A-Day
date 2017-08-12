@@ -26,11 +26,12 @@
 24. Square Every Digit
 25. String Average
 26. Sum of Numbers
-27. Tower of Hanoi
-28. Triangular Numbers
-29. Triangular Treasure
-30. Tribonacci Sequence
-31. Unscrambled Eggs
-32. Validate Credit Card Number
-33. Vowel Count
-34. You Got Change?
+27. Sum of Positive
+28. Tower of Hanoi
+29. Triangular Numbers
+30. Triangular Treasure
+31. Tribonacci Sequence
+32. Unscrambled Eggs
+33. Validate Credit Card Number
+34. Vowel Count
+35. You Got Change?
