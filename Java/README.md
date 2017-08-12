@@ -12,9 +12,10 @@
 10. Multiply
 11. Playing with Digits
 12. Replace All Dots
-13. Sum of Digits/ Digital Root
-14. Sum of Numbers
-15. Triangular Treasure
-16. Tribonacci Sequence
-17. Validate Credit Card Number
-18. Vowel Count
+13. Square Every Digit
+14. Sum of Digits/ Digital Root
+15. Sum of Numbers
+16. Triangular Treasure
+17. Tribonacci Sequence
+18. Validate Credit Card Number
+19. Vowel Count
